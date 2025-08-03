@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quang Khoi</h1>
-<h3 align="center">A passionate Software Engineering student at FPT University</h3>
+<h3 align="center">A backend developer-in-training, dedicated to building robust systems with clean code.</h3>
 
 - 👨‍💻 All of my projects are available at [1hatemondays.netify.app](1hatemondays.netify.app)
 
